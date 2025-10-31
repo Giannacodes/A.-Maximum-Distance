@@ -1,2 +1,2 @@
 # Codeforces
-practice This is documentation of my practice code for codeforces problems/contests
+This is documentation of my practice code for codeforces problems/contests
